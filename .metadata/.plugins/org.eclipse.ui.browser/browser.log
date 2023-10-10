@@ -1,0 +1,52 @@
+
+9월 19, 2023 10:50:20.977 NEW SESSION
+9월 19, 2023 10:50:20.977 [24636:35632:0919/105020.975:ERROR:device_event_log_impl.cc(222)] [10:50:20.974] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 19, 2023 10:50:23.540 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 19, 2023 12:02:57.452 [24636:35632:0919/120257.450:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 19, 2023 12:55:20.78 [24636:27008:0919/125520.073:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 19, 2023 14:01:43.46 [24636:27008:0919/140143.045:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+9월 19, 2023 14:57:05.35 [24636:27008:0919/145705.033:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 19, 2023 15:02:25.104 [24636:27008:0919/150225.104:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+9월 19, 2023 16:06:53.938 [25232:40320:0919/160653.936:ERROR:device_event_log_impl.cc(222)] [16:06:53.931] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 19, 2023 16:07:09.242 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 19, 2023 16:31:31.438 [25232:59052:0919/163131.437:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for cookie-sync.api.soundcast.fm failed:
+9월 19, 2023 16:31:31.439 ----- Certificate i=0 (CN=*.api.soundcast.fm) -----
+9월 19, 2023 16:31:31.440 ERROR: Time is after notAfter
+9월 19, 2023 16:31:31.440 
+9월 19, 2023 16:31:31.440 
+9월 19, 2023 16:59:26.146 [25232:59052:0919/165926.144:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.msclub21.co.kr failed:
+9월 19, 2023 16:59:26.151 ----- Certificate i=0 (O=My Company Ltd,L=Newbury,ST=Berkshire,C=GB) -----
+9월 19, 2023 16:59:26.152 ERROR: No matching issuer found
+9월 19, 2023 16:59:26.153 
+9월 19, 2023 16:59:26.153 
+9월 19, 2023 17:01:08.404 [25232:54464:0919/170108.403:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 19, 2023 17:04:21.52 [25232:40320:0919/170421.051:ERROR:device_event_log_impl.cc(222)] [17:04:21.050] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 19, 2023 17:14:32.886 [25232:40320:0919/171432.886:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 19, 2023 17:46:19.210 [25232:54464:0919/174619.182:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+9월 20, 2023 16:29:29.588 NEW SESSION
+9월 20, 2023 16:29:29.588 [105860:99284:0920/162929.582:ERROR:device_event_log_impl.cc(222)] [16:29:29.582] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 20, 2023 16:29:42.992 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 20, 2023 16:53:23.372 [105860:106804:0920/165323.369:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 20, 2023 17:04:49.765 [105860:106804:0920/170449.765:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+9월 20, 2023 17:26:17.767 [105860:99284:0920/172617.759:ERROR:device_event_log_impl.cc(222)] [17:26:17.758] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 20, 2023 17:41:17.45 [105860:99284:0920/174117.044:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+
+9월 21, 2023 09:16:51.853 NEW SESSION
+9월 21, 2023 09:16:51.853 [85464:74760:0921/091651.842:ERROR:device_event_log_impl.cc(222)] [09:16:51.842] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 21, 2023 09:16:56.887 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 21, 2023 10:53:09.825 [85464:4712:0921/105309.822:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 21, 2023 11:07:15.939 [85464:4712:0921/110715.939:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+9월 21, 2023 11:15:19.816 [85464:4712:0921/111519.815:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 21, 2023 11:23:49.801 [85464:4712:0921/112349.801:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 21, 2023 11:26:04.497 [85464:4712:0921/112604.496:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+
+9월 21, 2023 16:12:27.192 NEW SESSION
+9월 21, 2023 16:12:27.193 [113772:9160:0921/161227.184:ERROR:device_event_log_impl.cc(222)] [16:12:27.185] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 21, 2023 16:12:36.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 21, 2023 16:53:36.519 [113772:120552:0921/165336.516:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 21, 2023 16:58:27.160 [113772:120552:0921/165827.159:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+
+9월 22, 2023 09:05:39.77 NEW SESSION
+9월 22, 2023 09:05:39.77 [107588:103648:0922/090539.073:ERROR:device_event_log_impl.cc(222)] [09:05:39.073] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 22, 2023 09:05:50.820 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

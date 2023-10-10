@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+		<!-- ex16_table.html  -->
+	
+		<!-- 
+		
+		
+		
+		
+		
+		
+		 -->
+	
+	
+		<h1> 주소록 </h1>
+		
+		<table border ="1">
+		<h1> 주소록 </h1>
+		<table border = "1" width ="600"></table>
+		<!--  테이블 헤더 -->
+		<tr>
+			<td> 번호 </td>
+			<td> 이름 </td>
+			<td> 나이 </td>
+			<td> 성별 </td>
+			<td> 주소 </td>
+		</tr>
+		
+		<!-- 테이블 본문(데이터) -->
+		<tr>
+		<td> 1 </td>
+		<td> 하하하 </td>
+		<td> 27 </td>
+		<td> 여자 </td>
+		<td> 서울시 강남구 역삼동 </td>
+		</tr>
+		<tr>
+		<td> 2 </td>
+		<td> 호호호 </td>
+		<td> 28 </td>
+		<td> 남자 </td>
+		<td> 서울시 송파구 송파동 </td>
+		</tr>		
+		<tr>
+		<td> 3 </td>
+		<td> 후헤헤 </td>
+		<td> 29 </td>
+		<td> 29 </td>
+		<td> 서울시 강남구 청담동 </td>
+		</tr>		
+		
+		</table>
+
+</body>
+</html>
